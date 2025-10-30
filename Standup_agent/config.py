@@ -28,8 +28,8 @@ google_auth_credential = AuthCredential(
 )
 
 # Jira OAuth2 configuration (Atlassian)
-JIRA_CLIENT_ID = "Nt6B1qBlZUUvhzjOb3GqNLBuZS42ocdy"
-JIRA_CLIENT_SECRET = "ATOAe8z17GQ0MQ1sCXxjiWY7insyTMRgXeGmQg7-mJasxocBdMDPUCAIcRatxAUv1k_kC3835C0F"
+JIRA_CLIENT_ID = "Nt6B1qBlxxxxxx"
+JIRA_CLIENT_SECRET = "xxxx"
 JIRA_SITE_URL = "wow-sandbox2.atlassian.net"
 
 jira_auth_scheme = OAuth2(
